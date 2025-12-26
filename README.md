@@ -16,4 +16,4 @@ A clean, minimal personal dashboard built with Vanilla JavaScript.
 - Vanilla JavaScript
 
 ## Live Demo
-(coming soon)
+https://juliusa9.github.io/Personal-Dashboard/
